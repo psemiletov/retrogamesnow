@@ -20,7 +20,7 @@ Otherwise you can catch the "unable to save game" issue.
 ```innoextract filename.exe -I app```
 
 
-*[Fallout 2 Community Edition](https://github.com/alexbatalov/fallout2-ce) - supports sfall improvements, also Nevada and Sonora. As developer says, "[Fallout 2 Restoration Project](https://github.com/phobos2077/Fallout2_Restoration_Project), Fallout Et Tu and Olympus 2207 are not yet supported".  
+* [Fallout 2 Community Edition](https://github.com/alexbatalov/fallout2-ce) - supports sfall improvements, also Nevada and Sonora. As developer says, "[Fallout 2 Restoration Project](https://github.com/phobos2077/Fallout2_Restoration_Project), Fallout Et Tu and Olympus 2207 are not yet supported".  
 As for the original Fallout 2, best to start playing with a minimal files set:
 
 ```
