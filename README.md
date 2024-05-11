@@ -1,6 +1,6 @@
 # retrogamesnow
 
-Awesome list of Free and Open Source game engines recreations and helper tools. All engines at this list provides fully playable gameplay.
+Awesome list of Free and Open Source game engines recreations and helper tools. All engines at this list provides fully playable gameplay. I keep this list mostly as own bookmarks and game history research file. All projects work well at Arch Linux at the time of the last edit.
 
 
 * [Fallout Community Edition](https://github.com/alexbatalov/fallout1-ce) - best to start playing with a minimal files set:
@@ -30,7 +30,7 @@ patch000.dat
 sound/music/
 ```
 
-
+* [GZDoom](https://github.com/ZDoom/gzdoom) - modder-friendly OpenGL and Vulkan source port based on the DOOM engine. Support the classical DOOMs, mods, and total conversions.
 
 * [OpenMW](https://openmw.org) - allow you to play Morrowind (using the original game data) with mods. Look also at [Tamriel Rebuilt](https://www.tamriel-rebuilt.org) mod that adds Morrowind's mainland, full of new adventures. 
 
