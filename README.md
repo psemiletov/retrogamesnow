@@ -41,6 +41,8 @@ sound/music/
 
 * [Raze](https://github.com/ZDoom/Raze) - Build/ZDoom engine to play Bood, Duke Nukem 3D, Redneck Rampage, Shadow Warrior, Exhumed/Powerslave, Nam and WW2 GI. Look and feel of the original games, CPU load friendly (so Raze/Blood loads CPU less than Dosbox/Blood). [Raze official site](https://raze.zdoom.org/about)
 
+* [ScummVM](https://www.scummvm.org) - multi-engine for point'n'click adventures. Supports famouns serios of LucasArts, Sierra On-Line, Westwood Studios, etc. If you have joypad plugged-in, the mouse cursor will move to the top left corner eternally, so you can cheat by run with non-existent joypad: ```scummvm --joystick=1``` (zero - 0 - is the default joystick).
+
 * [The Force Engine](https://theforceengine.github.io) - modern engine for STAR WARS: Dark Forces and mods.
 
 
