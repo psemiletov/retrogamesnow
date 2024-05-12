@@ -41,10 +41,14 @@ sound/music/
 
 * [Raze](https://github.com/ZDoom/Raze) - Build/ZDoom engine to play Bood, Duke Nukem 3D, Redneck Rampage, Shadow Warrior, Exhumed/Powerslave, Nam and WW2 GI. Look and feel of the original games, CPU load friendly (so Raze/Blood loads CPU less than Dosbox/Blood). [Raze official site](https://raze.zdoom.org/about)
 
+* [R.E.L.I.V.E.](https://aliveteam.github.io) - engine to play Oddworld: Abe's Exoddus and
+Oddworld: Abe's Oddysee.
+
 * [ScummVM](https://www.scummvm.org) - multi-engine for point'n'click adventures. Supports famouns serios of LucasArts, Sierra On-Line, Westwood Studios, etc. If you have joypad plugged-in, the mouse cursor will move to the top left corner eternally, so you can cheat by run with non-existent joypad: ```scummvm --joystick=1``` (zero - 0 - is the default joystick). Some supported series and games: Quest For  Glory, Neverhood, Myst, Maniac Mansion, Monkey Island, Goblins, Grim Fandango, King's Quest, Might and Magic, Police Quest, Return to Zork - more than 100! [Full list see here](https://wiki.scummvm.org/index.php?title=Category:Supported_Games)
 
+* [SDLPoP](https://github.com/NagyD/SDLPoP) - Prince Of Persia engine, needs DOS data files.
 
 * [The Force Engine](https://theforceengine.github.io) - modern engine for STAR WARS: Dark Forces and mods.
 
-
+* [xray-16](https://github.com/OpenXRay/xray-16) - engine for S.T.A.L.K.E.R.: Call of Pripyat,	Clear Sky. No intro movies on some video cards. 
  
